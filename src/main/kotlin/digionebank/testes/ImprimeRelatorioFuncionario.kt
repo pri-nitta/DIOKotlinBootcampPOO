@@ -1,4 +1,6 @@
-package digionebank
+package digionebank.testes
+
+import digionebank.Funcionario
 
 class imprimeRelatorioFuncionario {
     companion object{
